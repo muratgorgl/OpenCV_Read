@@ -7,7 +7,7 @@ Created on Fri Dec  8 23:44:33 2023
 
 import cv2 as cv
 
-#img = cv.imread("D:\ML Projects\Opencv_kursu\Resources\Videos/dog.mp4")
+#img = cv.imread("D:\ML Projects\Opencv_kursu\Resources\Photos\cat.jpg")
 #cv.imshow("Cat", img)
 
 #cv.waitKey(0)
